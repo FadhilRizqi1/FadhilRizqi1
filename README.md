@@ -28,6 +28,6 @@ Hi! I'm a developer who just loves to build stuff. I enjoy exploring every corne
 
 <p align="center">
   <samp>
-    <b>"Building is the purest form of understanding"</b>
+    <b>"Trying is the purest form of understanding"</b>
   </samp>
 </p>
