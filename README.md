@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Warm Aesthetic Pixel Art" width="800" style="max-width: 100%;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=4AF626&center=true&vCenter=true&width=950&lines=Hi!+I'm+Fadhil;I+am+a+Software+Engineer;I+thrive+as+a+Full+Stack+Developer;I+also+delve+into+System+Architecture;I+am+currently+exploring+Artificial+Intelligence;Let's+explore+and+learn+everything!" alt="Typing animation" />
+</p>
+
+<hr />
+
 # 💫 About Me:
 Hi! I'm a developer who just loves to build stuff. I enjoy exploring every corner of the tech world, from the interface to the logic, seeing how all the pieces fit together to create something cool.<br><br>🔭 I’m currently working on: Crafting versatile web applications and tinkering with new project ideas to see what sticks.<br>👯 I’m looking to collaborate on: Pretty much anything interesting, I’m always down for a fresh challenge regardless of the stack.<br>🤝 I’m looking for help with: Mastering modern workflows and scaling my projects to the next level.<br>🌱 I’m currently learning: Diving into AI and constantly picking up new tools that catch my eye across the entire stack.<br>💬 Ask me about: Coding, Web Development, System Architecture, Business Process Analysis, or Machine Learning.<br>⚡ Fun fact: I like to challenge myself
 
@@ -12,10 +22,16 @@ Hi! I'm a developer who just loves to build stuff. I enjoy exploring every corne
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FadhilRizqi1&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
-[![](https://komarev.com/ghpvc/?username=FadhilRizqi1&icon=9&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br />
+
+<p align="center">
+  <samp>
+    <b>"Building is the purest form of understanding forged through execution"</b>
+  </samp>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FadhilRizqi1&color=4AF626&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
