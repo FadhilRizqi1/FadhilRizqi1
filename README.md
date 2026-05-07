@@ -9,7 +9,7 @@
 <hr />
 
 # 💫 About Me:
-Hi! I'm a developer who just loves to build stuff. I enjoy exploring every corner of the tech world, from the interface to the logic, seeing how all the pieces fit together to create something cool.<br><br>🔭 I’m currently working on: Crafting versatile web applications and tinkering with new project ideas to see what sticks.<br>👯 I’m looking to collaborate on: Pretty much anything interesting, I’m always down for a fresh challenge regardless of the stack.<br>🤝 I’m looking for help with: Mastering modern workflows and scaling my projects to the next level.<br>🌱 I’m currently learning: Diving into AI and constantly picking up new tools that catch my eye across the entire stack.<br>💬 Ask me about: Coding, Web Development, System Architecture, Business Process Analysis, or Machine Learning.<br>⚡I like to challenge myself
+Hi! I'm a developer who just loves to build stuff. I enjoy exploring every corner of the tech world, from the interface to the logic, seeing how all the pieces fit together to create something cool.<br><br>🔭 I’m currently working on: Crafting versatile web applications and tinkering with new project ideas to see what sticks.<br>👯 I’m looking to collaborate on: Pretty much anything interesting, I’m always down for a fresh challenge regardless of the stack.<br>🤝 I’m looking for help with: Mastering modern workflows and scaling my projects to the next level.<br>🌱 I’m currently learning: Diving into AI and constantly picking up new tools that catch my eye across the entire stack.<br>💬 Ask me about: Coding, Web Development, System Architecture, Business Process Analysis, or Machine Learning.<br>⚡ I like to challenge myself
 
 
 # 💻 Tech Stack:
