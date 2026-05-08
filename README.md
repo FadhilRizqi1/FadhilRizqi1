@@ -18,7 +18,7 @@
 
 <br>
 
-> 🧑‍💻 *I'm a developer who just loves to build stuff.*
+> 👨‍💻 *I'm a developer who just loves to build stuff.*
 > I enjoy exploring every corner of the tech world from the interface to the logic,
 > seeing how all the pieces fit together to create something cool.
 > 
@@ -30,7 +30,7 @@
     <td>Crafting versatile web applications & tinkering with new project ideas</td>
   </tr>
   <tr>
-    <td>👯 <strong>Collaborate</strong></td>
+    <td>🧑‍🤝‍🧑 <strong>Collaborate</strong></td>
     <td>Pretty much anything interesting, always down for a fresh challenge regardless of the stack</td>
   </tr>
   <tr>
