@@ -190,7 +190,8 @@
 <div align="center">
 
   <p>Let's connect and build something amazing together!</p>
- [![GitHub](https://img.shields.io/badge/GitHub-FadhilRizqi1-181717?style=for-the-badge&logo=github)](https://github.com/FadhilRizqi1)
+
+[![GitHub](https://img.shields.io/badge/GitHub-FadhilRizqi1-181717?style=for-the-badge&logo=github)](https://github.com/FadhilRizqi1)
 
 </div>
 
