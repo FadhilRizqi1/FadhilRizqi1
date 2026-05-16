@@ -208,7 +208,7 @@
 
   <h3>💭 Quote of the Day</h3>
 
-  <em>"Trying is the purest form of understanding"</em>
+  <em>"Doing is the purest form of understanding"</em>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,30,10&height=100&section=footer&animation=twinkling" width="100%"/>
 
   <br><br>
