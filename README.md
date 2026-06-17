@@ -158,18 +158,6 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FadhilRizqi1&theme=onedark&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
----
-
-<br>
-
 ## 🌟 Featured Projects
 
 <div align="center">
