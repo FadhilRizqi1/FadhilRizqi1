@@ -110,7 +110,9 @@
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 </details>
 
@@ -160,17 +162,32 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" alt="Projects Coming Soon"/>
+### 💸 SpendGuard AI
 
-  <br><br>
+AI-powered procurement risk detection platform <br> built with a modern full-stack architecture.
 
-  > **⚡ Exciting projects are in development — stay tuned!**
+**Highlights**
+- 🤖 AI-assisted risk detection
+- 🔐 Authentication & RBAC
+- 📊 Analytics Dashboard
+- 🐳 Dockerized
+- ✅ CI/CD + Automated Testing
 
-</div>
+**Tech**
+
+`FastAPI` `Next.js` `TypeScript` `PostgreSQL` <br>
+`Docker` `Pytest` `Vitest`
 
 <br>
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/FadhilRizqi1/spendguard-ai)
+
+</tr>
+</table>
 
 ---
 
