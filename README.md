@@ -18,7 +18,7 @@
 
 <br>
 
-> 👨‍💻 *I'm a developer who just loves to build stuff.*
+> *I'm a developer who just loves to build stuff.*
 > I enjoy exploring every corner of the tech world from the interface to the logic,
 > seeing how all the pieces fit together to create something cool.
 > 
@@ -26,23 +26,23 @@
 
 <table>
   <tr>
-    <td>🔭 <strong>Currently</strong></td>
+    <td><strong>Currently</strong></td>
     <td>Crafting versatile web applications & tinkering with new project ideas</td>
   </tr>
   <tr>
-    <td>🧑‍🤝‍🧑 <strong>Collaborate</strong></td>
+    <td><strong>Collaborate</strong></td>
     <td>Pretty much anything interesting, always down for a fresh challenge regardless of the stack</td>
   </tr>
   <tr>
-    <td>🤝 <strong>Seeking help with</strong></td>
+    <td><strong>Seeking help with</strong></td>
     <td>Mastering modern workflows & scaling projects to the next level</td>
   </tr>
   <tr>
-    <td>🌱 <strong>Learning</strong></td>
+    <td><strong>Learning</strong></td>
     <td>Diving deep into AI & constantly picking up new tools across the entire stack</td>
   </tr>
   <tr>
-    <td>💬 <strong>Ask me about</strong></td>
+    <td><strong>Ask me about</strong></td>
     <td>Coding · Web Dev · System Architecture · Business Process Analysis · Machine Learning</td>
   </tr>
 </table>
@@ -171,11 +171,11 @@
 AI-powered procurement risk detection platform <br> built with a modern full-stack architecture.
 
 **Highlights**
-- 🤖 AI-assisted risk detection
-- 🔐 Authentication & RBAC
-- 📊 Analytics Dashboard
-- 🐳 Dockerized
-- ✅ CI/CD + Automated Testing
+- AI-assisted risk detection
+- Authentication & RBAC
+- Analytics Dashboard
+- Dockerized
+- CI/CD + Automated Testing
 
 **Tech**
 
