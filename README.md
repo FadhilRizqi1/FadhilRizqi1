@@ -192,8 +192,6 @@ My work spans full-stack development, software architecture, and applied machine
 <div align="center">
   <p><em>"Doing is the purest form of understanding."</em></p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36,48&height=120&section=footer&animation=twinkling" width="100%"/>
-
   <br><br>
 
   <img src="https://komarev.com/ghpvc/?username=FadhilRizqi1&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
