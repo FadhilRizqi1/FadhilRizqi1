@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/72/0c/c4/720cc43d757ee638ad5054a05220fafe.gif" alt="Pixel Art Header" width="600" style="border-radius: 12px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadhilRizqi1&bg_color=1a1b27&color=38B2AC&line=38B2AC&point=38B2AC&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
@@ -135,11 +135,7 @@ My work spans full-stack development, software architecture, and applied machine
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadhilRizqi1&theme=tokyonight&hide_border=false" width="100%" alt="Contribution Graph" />
-</div>
 
-<br>
 
 ---
 
