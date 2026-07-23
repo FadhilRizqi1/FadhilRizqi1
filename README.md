@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=2000&color=00E599&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+AI+Enthusiast;Building+Scalable+Web+Apps+%26+Intelligent+Systems;Let's+connect+and+collaborate!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=2000&color=00E599&center=true&vCenter=true&width=950&lines=Hi!+I'm+Fadhil;I'm+a+Software+Developer+%26+Tech+Enthusiast;Building+Scalable+Web+Applications+%26+Digital+Products;Exploring+Artificial+Intelligence+%26+Machine+Learning;Let's+connect,+Learn,+and+Collaborate!;" alt="Typing animation" />
 </div>
 
 <br>
@@ -14,25 +14,25 @@
 
 ## About Me
 
-I am a Software Developer focused on building high-performance web applications, robust backend architectures, and intelligent software solutions. With a passion for clean system design and continuous learning, I enjoy transforming complex requirements into reliable, efficient applications across diverse technology stacks.
+I am a Software Developer passionate about building high-performance applications, elegant user experiences, and intelligent software solutions. With a focus on clean system design and continuous learning, I enjoy transforming complex requirements into reliable, efficient software across diverse technology stacks.
 
-My primary focus spans full-stack engineering, microservice design, and applied machine learning workflows, prioritizing type safety, performance, and maintainability.
+My work spans full-stack development, software architecture, and applied machine learning workflows, prioritizing code quality, performance, and maintainability.
 
 <br>
 
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <strong>Full-Stack Engineering</strong>
-      <p>Building responsive web interfaces and resilient backend systems with modern tools.</p>
+      <strong>Full-Stack Development</strong>
+      <p>Building responsive web applications and intuitive interfaces with modern frontend tools.</p>
     </td>
     <td width="33%" align="center">
       <strong>Applied AI & ML</strong>
-      <p>Integrating intelligent data processing and automated risk evaluation into business logic.</p>
+      <p>Integrating intelligent data processing and machine learning models into practical applications.</p>
     </td>
     <td width="34%" align="center">
-      <strong>System Architecture</strong>
-      <p>Designing modular microservices, optimized database schemas, and scalable APIs.</p>
+      <strong>Software Engineering</strong>
+      <p>Designing clean APIs, scalable system architectures, and maintainable codebases.</p>
     </td>
   </tr>
 </table>
@@ -180,7 +180,7 @@ My primary focus spans full-stack engineering, microservice design, and applied 
   <p>Open for software engineering opportunities, technical discussions, and open-source collaboration.</p>
 
   <a href="https://github.com/FadhilRizqi1">
-    <img src="https://img.shields.io/badge/GitHub-FadhilRizqi1-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-FadhilRizqi1-181717?style=for-the-badge&logo=github" alt="Repository Link" />
   </a>
 </div>
 
