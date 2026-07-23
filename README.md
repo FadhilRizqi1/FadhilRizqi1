@@ -5,45 +5,35 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=4AF626&center=true&vCenter=true&width=950&lines=Hi!+I'm+Fadhil;I+am+a+Developer;I+also+delve+into+the+Artificial+Intelligence+Field;and+many+other+things+too!;Let's+connect,+explore+and+learn!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=2000&color=00E599&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+AI+Enthusiast;Building+Scalable+Web+Apps+%26+Intelligent+Systems;Let's+connect+and+collaborate!" alt="Typing animation" />
 </div>
 
 <br>
 
 ---
 
+## About Me
+
+I am a Software Developer focused on building high-performance web applications, robust backend architectures, and intelligent software solutions. With a passion for clean system design and continuous learning, I enjoy transforming complex requirements into reliable, efficient applications across diverse technology stacks.
+
+My primary focus spans full-stack engineering, microservice design, and applied machine learning workflows, prioritizing type safety, performance, and maintainability.
+
 <br>
 
-## 💫 About Me
-
-<br>
-
-> *I'm a developer who just loves to build stuff.*
-> I enjoy exploring every corner of the tech world from the interface to the logic,
-> seeing how all the pieces fit together to create something cool.
-> 
-<br>
-
-<table>
+<table width="100%">
   <tr>
-    <td><strong>Currently</strong></td>
-    <td>Crafting versatile web applications & tinkering with new project ideas</td>
-  </tr>
-  <tr>
-    <td><strong>Collaborate</strong></td>
-    <td>Pretty much anything interesting, always down for a fresh challenge regardless of the stack</td>
-  </tr>
-  <tr>
-    <td><strong>Seeking help with</strong></td>
-    <td>Mastering modern workflows & scaling projects to the next level</td>
-  </tr>
-  <tr>
-    <td><strong>Learning</strong></td>
-    <td>Diving deep into AI & constantly picking up new tools across the entire stack</td>
-  </tr>
-  <tr>
-    <td><strong>Ask me about</strong></td>
-    <td>Coding · Web Dev · System Architecture · Business Process Analysis · Machine Learning</td>
+    <td width="33%" align="center">
+      <strong>Full-Stack Engineering</strong>
+      <p>Building responsive web interfaces and resilient backend systems with modern tools.</p>
+    </td>
+    <td width="33%" align="center">
+      <strong>Applied AI & ML</strong>
+      <p>Integrating intelligent data processing and automated risk evaluation into business logic.</p>
+    </td>
+    <td width="34%" align="center">
+      <strong>System Architecture</strong>
+      <p>Designing modular microservices, optimized database schemas, and scalable APIs.</p>
+    </td>
   </tr>
 </table>
 
@@ -51,174 +41,159 @@
 
 ---
 
-<br>
+## Tech Stack
 
-## 💻 Tech Stack
-
-<details open>
-<summary><b>🚀 Programming Languages</b></summary>
-<br>
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🌐 Web Technologies</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Frameworks & Libraries</b></summary>
-<br>
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Fiber](https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Hosting</b></summary>
-<br>
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffa611)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-</details>
-
-<br>
-
----
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=FadhilRizqi1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Fadhil's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FadhilRizqi1&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=FadhilRizqi1&theme=radical&hide_border=false" alt="GitHub Streak"/>
-
-</div>
-
-<br>
-
----
-
-<br>
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💸 SpendGuard AI
-
-AI-powered procurement risk detection platform <br> built with a modern full-stack architecture.
-
-**Highlights**
-- AI-assisted risk detection
-- Authentication & RBAC
-- Analytics Dashboard
-- Dockerized
-- CI/CD + Automated Testing
-
-**Tech**
-
-`FastAPI` `Next.js` `TypeScript` `PostgreSQL` <br>
-`Docker` `Pytest` `Vitest`
-
-<br>
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/FadhilRizqi1/spendguard-ai)
-
-</tr>
+<table width="100%">
+  <tr>
+    <td width="22%"><strong>Languages</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Mobile</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & Cloud</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffa611" />
+      <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/WSL2-2C2D72?style=for-the-badge&logo=linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
+<br>
+
 ---
+
+## GitHub Analytics & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.shion.dev/api?username=FadhilRizqi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&show_icons=true" alt="Fadhil's GitHub Stats"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=FadhilRizqi1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com/?user=FadhilRizqi1&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</div>
 
 <br>
 
-## 📫 Connect with Me
-
 <div align="center">
-
-  <p>Let's connect and build something amazing together!</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-FadhilRizqi1-181717?style=for-the-badge&logo=github)](https://github.com/FadhilRizqi1)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FadhilRizqi1&theme=tokyonight&hide_border=false" width="100%" alt="Contribution Graph" />
 </div>
 
 <br>
 
 ---
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3>SpendGuard AI</h3>
+      <p>An enterprise-grade procurement risk detection platform engineered to evaluate compliance anomalies and financial risk factors using automated machine learning models. Built with a full-stack architecture featuring granular role-based access control, real-time analytics telemetry, and a fully dockerized deployment pipeline with automated testing.</p>
+      <br>
+      <p><strong>Architecture & Stack</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vitest-646CFF?style=flat-square&logo=vitest&logoColor=white" />
+      </p>
+      <br>
+      <div align="center">
+        <a href="https://github.com/FadhilRizqi1/spendguard-ai">
+          <img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github" alt="Repository Link" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
 <br>
 
+---
+
+## Connect With Me
+
 <div align="center">
+  <p>Open for software engineering opportunities, technical discussions, and open-source collaboration.</p>
 
-  <h3>💭 Quote of the Day</h3>
+  <a href="https://github.com/FadhilRizqi1">
+    <img src="https://img.shields.io/badge/GitHub-FadhilRizqi1-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+</div>
 
-  <em>"Doing is the purest form of understanding"</em>
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,30,10&height=100&section=footer&animation=twinkling" width="100%"/>
+<br>
+
+---
+
+<div align="center">
+  <p><em>"Doing is the purest form of understanding."</em></p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,36,48&height=120&section=footer&animation=twinkling" width="100%"/>
 
   <br><br>
 
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=FadhilRizqi1&color=blue&style=for-the-badge&label=Profile+Views)
-
+  <img src="https://komarev.com/ghpvc/?username=FadhilRizqi1&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
